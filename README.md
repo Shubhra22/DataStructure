@@ -7,7 +7,3 @@ This Repo contains basic Data Structures implemented with both Java and C++.
 |1. Linked List| Java | C++ |
 |2. Stack | [Java](https://github.com/Shubhra22/DataStructure/blob/master/StackLinkedList/src/com/Shubhra/Stack.java) | C++ |
 |3. Queue| Java | C++ |
-|   | Java | C++ |
-|   | Java | C++ |
-|   | Java | C++ |
-|   | Java | C++ |
