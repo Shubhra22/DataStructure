@@ -1,0 +1,4 @@
+"D:\CLion 2020.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" J:\3.DatatStructure_And_Algorithm\C++\Tree\BinaryTree
+-- Configuring done
+-- Generating done
+-- Build files have been written to: J:/3.DatatStructure_And_Algorithm/C++/Tree/BinaryTree/cmake-build-debug

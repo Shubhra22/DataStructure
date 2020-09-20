@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+J:/3.DatatStructure_And_Algorithm/C++/Tree/BinaryTree/BinaryTree.cpp
+BinaryTree.h
+J:/3.DatatStructure_And_Algorithm/C++/Tree/BinaryTree/BinaryTree.h
+bits/stdc++.h
+-
+
+J:/3.DatatStructure_And_Algorithm/C++/Tree/BinaryTree/BinaryTree.h
+Node.h
+J:/3.DatatStructure_And_Algorithm/C++/Tree/BinaryTree/Node.h
+
+J:/3.DatatStructure_And_Algorithm/C++/Tree/BinaryTree/Node.h
+
