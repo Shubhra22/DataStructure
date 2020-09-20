@@ -33,3 +33,21 @@ void BinaryTree::InOrder(Node *root)
         InOrder(root->rightNode);
     }
 }
+void BinaryTree::PreOrder(Node *root)
+{
+    if(root!= nullptr)
+    {
+        std::cout<<root->value << std::endl;
+        InOrder(root->leftNode);
+        InOrder(root->rightNode);
+    }
+}
+void BinaryTree::PostOrder(Node *root)
+{
+    if(root!= nullptr)
+    {
+        InOrder(root->leftNode);
+        InOrder(root->rightNode);
+        std::cout<<root->value << std::endl;
+    }
+}

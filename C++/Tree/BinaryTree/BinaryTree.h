@@ -15,5 +15,7 @@ public:
     BinaryTree(int* nodes, int length);
     Node* CreateTree(Node* root, int i);
     void InOrder(Node* root);
+    void PreOrder(Node* root);
+    void PostOrder(Node* root);
 };
 
